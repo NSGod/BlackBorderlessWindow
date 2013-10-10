@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Borderless Window' target in the 'Borderless Window' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
