@@ -19,7 +19,7 @@
 		[self setAlphaValue:0.75];
 		[self setOpaque:NO];
 		[self setExcludedFromWindowsMenu:NO];
-		
+		[self setBackgroundColor:[NSColor clearColor]];
 	}
 	return self;
 }
